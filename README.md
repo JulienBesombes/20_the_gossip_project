@@ -9,6 +9,8 @@
 > cd 20_the_gossip_project
 >
 > bundle install
+>
+>rails db:drop
 > 
 > rails db:create
 >
